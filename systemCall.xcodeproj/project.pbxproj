@@ -25,7 +25,6 @@
 /* Begin PBXFileReference section */
 		E8284A461A7057F70010CBF0 /* systemCall */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = systemCall; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8284A491A7057F70010CBF0 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
-		E8D4F0C41A929D27000224F2 /* PROFILE */ = {isa = PBXFileReference; lastKnownFileType = text; path = PROFILE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +57,6 @@
 		E8284A481A7057F70010CBF0 /* systemCall */ = {
 			isa = PBXGroup;
 			children = (
-				E8D4F0C41A929D27000224F2 /* PROFILE */,
 				E8284A491A7057F70010CBF0 /* main.c */,
 			);
 			path = systemCall;
